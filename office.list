@@ -1,2 +1,1 @@
-    - RULE-SET,applications,DIRECT
-    -  DOMAIN-SUFFIX,teams.com,DIRECT
+  - DOMAIN-SUFFIX,teams.com,DIRECT

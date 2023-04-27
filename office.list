@@ -3,4 +3,9 @@ DOMAIN-SUFFIX,teams.com
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,sharepoint
 PROCESS-NAME,teams.exe
+DOMAIN-KEYWORD,forti
+PROCESS-NAME,FortiSSLVPNdaemon.exe
+PROCESS-NAME,FortiSettings.exe
+PROCESS-NAME,FortiESNAC.exe
+PROCESS-NAME,FortiTray.exe
 #Microsoft Office
